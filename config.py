@@ -2,6 +2,6 @@
   "modelo": "baseline",
   "train_meses": 18,
   "test_meses": 3,
-  "forecast_meses": 18,
+  "forecast_meses": 12,
   "semilla": 42
 }
